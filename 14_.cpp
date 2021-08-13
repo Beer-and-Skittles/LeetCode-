@@ -1,3 +1,8 @@
+// 14.Longest Common Prefix
+// https://leetcode.com/problems/longest-common-prefix/
+// begin:  2021/08/13
+// solved: 2021/08/13
+
 #include <iostream>
 #include<string>
 #include <vector>
