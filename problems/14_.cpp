@@ -40,4 +40,5 @@ int main(void){
     vector<string> myVec = {"flower", "flow", "flight"};
     string prefix = sol.longestCommonPrefix(myVec);
     printf("prefix is : %s\n",prefix.c_str());
+    return 0;
 }
